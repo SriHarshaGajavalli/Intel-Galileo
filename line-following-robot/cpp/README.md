@@ -41,11 +41,10 @@ Grove* Robotics Kit containing:
 
 ## How to set up
 
-To begin, clone the **How-To Intel IoT Code Samples** repository onto your computer with Git* as follows:
+To begin, clone the **Robotics** repository onto your computer with Git* as follows:
 
-    $ git clone https://github.com/intel-iot-devkit/how-to-code-samples.git
+    $ git clone https://github.com/SriHarshaGajavalli/Robotics/line-following-robot.git
 
-To download a .zip file, in your web browser go to [https://github.com/intel-iot-devkit/how-to-code-samples](https://github.com/intel-iot-devkit/how-to-code-samples) and click the **Download ZIP** button on the right-hand side. Once the .zip file is downloaded, uncompress it, and then use the files in the directory for this example.
 
 ### Adding the program to Eclipse
 
