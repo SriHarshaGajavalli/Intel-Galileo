@@ -36,13 +36,7 @@ Grove* Robotics Kit containing:
 1. Intel® System Studio IoT Edition
 2. Microsoft Azure\*, IBM Bluemix\*, or AWS account (optional)
 
-### How to set up
 
-To begin, clone the **How-To Intel IoT Code Samples** repository with Git* on your computer as follows:
-
-    $ git clone https://github.com/intel-iot-devkit/how-to-code-samples.git
-
-To download download a .zip file, in your web browser, go to <a href="https://github.com/intel-iot-devkit/how-to-code-samples">https://github.com/intel-iot-devkit/how-to-code-samples</a> and click the **Download ZIP** button at the lower right. Once the .zip file is downloaded, uncompress it, and then use the files in the directory for this example.
 
 ## Adding the program to Intel® System Studio IoT Edition
 
